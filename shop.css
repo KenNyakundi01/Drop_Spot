@@ -1,0 +1,43 @@
+.shiny-text-output shiny-bound-output shiny-output-error shiny-output-error-shiny.silent.error shiny-output-error-validation{
+color:black;}
+
+.shiny-output-error-validation {
+    color: red;
+}
+.shiny-text-output noplaceholder shiny-bound-output {
+    word-wrap: normal;
+    position: relative;
+    width: 299px;
+}
+.btn btn-default action-button shiny-bound-input {
+	position: relative;
+    left: 400px;
+    top: -185px;
+}
+.navbar-nav {
+	background-color:#f10980;
+	border-color:red;
+}
+
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:hover, .navbar-default .navbar-nav>.active>a:focus {
+	background-color:#f10980;
+	
+}
+.navbar-brand {
+	background-color:#f10980;
+	
+}
+.navbar-default .navbar-nav>li>a {
+	background-color:#f10980;
+}
+
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:hover, .navbar-default .navbar-nav>.active>a:focus {
+	background-color:#f10980;
+}
+.nav-tabs {
+	font-size:19px;
+}
+.pre.shiny-text-output {
+    word-wrap: normal;
+    color: red;
+}
