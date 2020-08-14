@@ -21,10 +21,10 @@ Type 'q()' to quit R.
 Loading required package: shiny
 Warning message:
 package 'shiny' was built under R version 3.6.3 
-> folder_address = 'C://Users//ADMIN//Desktop//Drop Spot//DianaStore'
+> folder_address = 'C://Users//ADMIN//Desktop//Drop Spot//Drop_Spot'
 > runApp(folder_address, launch.browser=TRUE)
 
-Listening on http://127.0.0.1:7473
+Listening on http://127.0.0.1:6286
 Warning: package 'shinythemes' was built under R version 3.6.3
 Warning: package 'shinyWidgets' was built under R version 3.6.3
 Warning: package 'shinydashboard' was built under R version 3.6.3
@@ -99,25 +99,15 @@ The following objects are masked from 'package:methods':
 
     removeClass, show
 
-[1] "Please Confirm That The Detail Provided Above Are Correct Before Pressing The Submit Button"
-[1] "First Name: gtgygtg"
-[1] "Second Name: gtgtygtygt"
-[1] "Name of The Store: gtgytgytgytg"
-[1] "Phone Number:+254709098098"
-[1] "Item Description:b"
-[1] "Quantity:1"
-[1] "Item Description:bl"
-[1] "Item Description:bl"
-[1] "Item Description:bla"
-Warning: Error in : nanodbc/nanodbc.cpp:983: IM002: [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified 
-  79: <Anonymous>
-[1] "Second Name: frtfrtf"
-[1] "Store Name: Majengo Store"
-[1] "Phone Number: 705098186"
-[1] "Item Description: frft"
+[1] "Second Name: Mongina"
+[1] "Store Name: Hamidas Touch"
+[1] "Phone Number: +254705098186"
+[1] "Item Description: b"
 [1] "Number Of Items: 1"
 [1] "MPESA Code: "
 [1] "Please Confirm That The Detail Provided Above Are Correct Before Pressing The Submit Button"
-[1] "First Name: cffrtftrf"
+[1] "First Name: Dolphine"
+[1] "Item Description: blu"
+[1] "Item Description: blue"
 Warning: Error in : nanodbc/nanodbc.cpp:983: IM002: [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified 
   79: <Anonymous>

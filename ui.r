@@ -127,7 +127,7 @@ ui =  tagList(includeCSS('shop.css'),
              h3 ("Customer Registration(To Be Registered During Drop Off)"),
              textInput("first","First Name"),
              textInput("last","Second Name"),
-             selectInput("stores1","Select A Store", choices= c("","Malazi Store", "Majengo Store","Online Dress","Online Furniture"),  multiple = FALSE),
+             selectInput("stores1","Select A Store", choices= c("","Hamidas Touch", "The Pinepple", "Northline","Crafty Minds","Shop 2Cents"),  multiple = FALSE),
              
              textInput("numbers","Cell Phone Numers (10 digits):",placeholder = "+254" ),
              numericInput("quantity", "Number Of Items",value = 1, min = 1, max = 100000,step = 1),
@@ -154,7 +154,7 @@ ui =  tagList(includeCSS('shop.css'),
     
     tabPanel("MONTHLY PICK_UP",
              img(src="log.png", style = "position:fixed;width:200px;height:200px;top:-9px;right:20px;"),
-             selectInput("stores","Select A Store", choices= c("","Malazi Store", "Majengo Store","Online Dress","Online Furniture"),  multiple = FALSE),
+             selectInput("stores","Select A Store", choices= c("","Hamidas Touch", "The Pinepple",  "Northline","Crafty Minds","Shop 2Cents"),  multiple = FALSE),
              span(actionButton("refresh","Refresh Data"),
                   style = "position:fixed;top:126px;right:20px;"
              ),
